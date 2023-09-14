@@ -12,5 +12,5 @@ Anglais autonomie linguistique
 
 👉 En résumé :
 🔥Je suis un développeur web Full Stack investi 
-📫 Mon email : sir.chamallow@protonmail.com
-📄 Mon profil linkendin : 
+📫 Mon email : thomasleveo@gmail.com
+📄 Mon profil linkendin : www.linkedin.com/in/thomas-le-veo
