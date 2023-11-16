@@ -10,6 +10,7 @@ Javascript
 SQL
 Ruby
 Rails 
+React </br>
 Bootstrap 
 SASS 
 Figma 
