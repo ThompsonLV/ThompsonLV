@@ -3,7 +3,7 @@
 Après plusieurs années d'expérience dans le domaine du bâtiment où j'ai acquis de nombreuses connaissances et compétences,  
 j'ai suivi le bootcamp du Wagon en 2023 pour apprendre et découvrir le code.
 
-## 👨‍💻 Stacks :##
+## 👨‍💻 Stacks : ##
 HTML
 CSS
 Javascript
