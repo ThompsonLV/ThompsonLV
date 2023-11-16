@@ -4,24 +4,24 @@ Après plusieurs années d'expérience dans le domaine du bâtiment où j'ai acq
 j'ai suivi le bootcamp du Wagon en 2023 pour apprendre et découvrir le code.
 
 ## 👨‍💻 Stacks : ##
-HTML
-CSS
-Javascript
-SQL
-Ruby
-Rails 
+HTML</br>
+CSS</br>
+Javascript</br>
+SQL</br>
+Ruby</br>
+Rails </br>
 React </br>
-Bootstrap 
-SASS 
-Figma 
-Git 
-Heroku  
+Bootstrap </br>
+SASS </br>
+Figma </br>
+Git </br>
+Heroku
 
 ## 🌐 Langues : ##
-Français natif
+Français natif</br>
 Anglais autonomie linguistique
 
 ## 👉 En résumé : ##
-🔥Je suis un développeur web Full Stack investi 
-📫 Mon email : thomasleveo@gmail.com
+🔥Je suis un développeur web Full Stack investi </br>
+📫 Mon email : thomasleveo@gmail.com </br>
 📄 Mon profil linkendin : www.linkedin.com/in/thomas-le-veo
