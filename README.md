@@ -18,4 +18,4 @@ Anglais autonomie linguistique
 🔥Je suis un développeur web Full Stack investi </br>
 📫 Mon email : thomasleveo@gmail.com </br>
 📄 Mon profil linkendin : www.linkedin.com/in/thomas-le-veo </br>
-💻 Mon portfolio : https:/www.thomas-leveo.site
+💻 Mon portfolio : www.thomas-leveo.site
