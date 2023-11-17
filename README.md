@@ -10,7 +10,7 @@ HTML - CSS - Javascript - SQL - Ruby - Rails - ReactJS - Bootstrap
 ## 🔧 Autres outils : ##
 Figma - Git - GitHub - Heroku
 
-## 🌐 Langues : ##
+## 💬 Langues : ##
 Français natif</br>
 Anglais autonomie linguistique
 
